@@ -1,0 +1,148 @@
+/* Styles for Diferencias Individuales */
+table {
+  border-collapse: collapse;
+  padding: 10%;
+  border: 1px solid gray;
+}
+div.tip {
+  text-align: left;
+  margin-left: 1.1em;
+  margin-right: 1.1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 1%;
+  padding-right: 1%;
+  font-style: italic;
+  font-size: 90%;
+}
+nav {
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-size: 80%;
+}
+span.def {
+  font-weight: bold;
+  /*font-variant: small-caps;*/
+}
+div.cuadro {
+  text-align: left;
+  margin-left: 0.8em;
+  margin-right: 0.8em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 1%;
+  padding-right: 1%;
+  font-style: italic;
+  font-size: 90%;
+}
+div.cita {
+  text-align: left;
+  margin-left: 3em;
+  margin-right: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-size: 90%;
+}
+div.tablatitulo {
+  text-align: center;
+  font-variant: small-caps;
+  font-weight: bold;
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-style: solid;
+  border-width: 1px;
+  font-style: italic;
+  font-size: 90%;
+}
+div.cuadrotitulo {
+  text-align: center;
+  font-weight: bold;
+  font-variant: small-caps;
+}
+div.tab1 {
+  margin-left: 40px;
+}
+section.notas {
+  font-size: 80%;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+  font-size: 90%;
+}
+
+table th {
+  border: 1px solid black;
+  vertical-align: top;
+}
+
+table td {
+  border: 1px solid black;
+  vertical-align: top;
+}
+
+div.bibliografia {
+  margin-left: 1em;
+  text-indent: -1em;
+}
+div.figura {
+  font-size: 90%;
+}
+.numerocapitulo {
+  font-size: 150%;
+  font-weight: bold;
+  text-align: center;
+}
+.textocapitulo {
+  font-size: 150%;
+  font-weight: bold;
+  text-align: center;
+}
+.autor {
+  font-size: 130%;
+  font-weight: normal;
+  text-align: center;
+  font-style: italic;
+}
+
+h1{
+  font-size:150%;
+}
+
+h2{
+  font-size:140%;
+}
+
+h3{
+  font-size:130%;
+}
+
+h4{
+  font-size:120%;
+}
+h5{
+  font-size: 110%;
+}
+
+h6{
+  font-size: 105%;
+}
+
+blockquote{
+  font-size: 90%;
+  font-style: italic;
+}
+
+blockquote p {
+  display: inline;
+}
