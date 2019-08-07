@@ -1,0 +1,84 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compilar Markdown tema 12",
+            "type": "shell",
+            "command": "markdown-it tema12.md -o tema12.xhtml",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 11",
+            "type": "shell",
+            "command": "markdown-it tema11.md -o tema11.xhtml",
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 10",
+            "type": "shell",
+            "command": "markdown-it tema10.md -o tema10.xhtml",
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 9",
+            "type": "shell",
+            "command": "markdown-it tema09.md -o tema09.xhtml",
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 8",
+            "type": "shell",
+            "command": "markdown-it tema08.md -o tema08.xhtml",
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 7",
+            "type": "shell",
+            "command": "markdown-it tema07.md -o tema07.xhtml",
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 6",
+            "type": "shell",
+            "command": "markdown-it tema06.md -o tema06.xhtml",
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 5",
+            "type": "shell",
+            "command": "markdown-it tema05.md -o tema05.xhtml",
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 4",
+            "type": "shell",
+            "command": "markdown-it tema04.md -o tema04.xhtml",
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 3",
+            "type": "shell",
+            "command": "markdown-it tema03.md -o tema03.xhtml",
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 2",
+            "type": "shell",
+            "command": "markdown-it tema02.md -o tema02.xhtml",
+            "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown tema 1",
+            "type": "shell",
+            "command": "markdown-it tema01.md -o tema01.xhtml",
+            "problemMatcher": []
+        }
+
+    ]
+}
