@@ -1,8 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <title>Diferencias Individuales</title>
+  <link href="styles.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
 
 # Tema 5. Naturaleza y estructura de las diferencias individuales en inteligencia
 ## 1. Introducción
 
-{196}
+<nav>pág. 196</nav>
 
 La Inteligencia ha sido objeto de interés a lo largo de los siglos. Platón, Aristóteles, Santo Tomás de Aquino, Pascal, Locke, Kant…, la consideran una cualidad que diferencia a los individuos y otorga mayor capacidad de aprendizaje, comprensión más universal y profunda, o un mayor juicio, pudiendo distinguirse en ella diferentes tipos y aspectos relevantes.
 
@@ -20,7 +29,7 @@ Los modelos más clásicos son los psicométricos, fundamentados en el **Anális
 ## 2. Contenidos del tema
 ### Concepciones sobre la naturaleza de la inteligencia
 
-{206}
+<nav>pág. 206</nav>
 
 <div class="cuadro">
 <div class="cuadrotitulo">La inteligencia  a, b y c</div>
@@ -34,7 +43,7 @@ Según los **Modelos Biológicos**: la Inteligencia A es la auténtica (pura),  
 * **Sternberg** (crítico de las medidas reduccionistas) aboga por la Inteligencia B, ya que incluye aspectos relevantes para la vida cotidiana de las personas, que la inteligencia biológica y Psicométrica no contemplan.
 </div>
 
-{207}
+<nav>pág. 207</nav>
 
 Metáforas  principales en el estudio de las diferencias individuales en inteligencia, según **Sternberg**
 * **Geográfica** o estructural (Elabora el mapa de la mente)
@@ -49,7 +58,7 @@ Metáforas  principales en el estudio de las diferencias individuales en intelig
     * Excesiva dependencia de las diferencias individuales (como único objetivo de estudio).
     * Generalización de sus resultados cuestionable al tipo de inteligencia cotidiana que los individuos desarrollan.
 
-{208}
+<nav>pág. 208</nav>
 
 * **Computacional** (Mente como ordenador)
   * Ventajas
@@ -61,7 +70,7 @@ Metáforas  principales en el estudio de las diferencias individuales en intelig
     * La comparación de la mente al funcionamiento del ordenador es cuestionable.
     * Dificultades de generalización de los resultados a la vida cotidiana.
 
-{209}
+<nav>pág. 209</nav>
 
 * **Biológica** (Inteligencia como producto de un funcionamiento rápido y eficiente del cerebro) 
   * Ventajas
@@ -82,7 +91,7 @@ Metáforas  principales en el estudio de las diferencias individuales en intelig
     * En las teorías faltan detalles importantes y elaboración.
     * Posiciones extremas que conducen a considerar la inteligencia como algo diferente en cada cultura, carecen de parsimonia.
 
-{213}
+<nav>pág. 213</nav>
 
 * **Sistémica** (Incluye todos los aspectos anteriores)
   * Ventajas
@@ -94,12 +103,12 @@ Metáforas  principales en el estudio de las diferencias individuales en intelig
     * Menos parsimonia por la complejidad de las teorías propuestas.
     * Algunas teorías están más desarrolladas en la extensión de los elementos que abordan, que en un análisis profundo de los mismos.
 
-{215}
+<nav>pág. 215</nav>
 
 <table border='1'>
 <tr><th>Corrientes en el estudio de la inteligencia</th><th>Perspectiva unitaria</th><th>
 Perspectiva multidimensional</th></tr>
-<tr><th>Antecedentes</th><td>Galton y Spearman</td><td>Binet
+<tr><th>Antecedentes</th><td>Galton y Spearman</td><td>Binet</td></tr>
 <tr><th>Concepto de inteligencia</th><td>Facultad unitaria referida a la capacidad cognitiva “general” del individuo</td><td>Capacidad global derivada del promedio de múltiples facetas</td></tr>
 <tr><th>Determinación de La inteligencia</th><td>
 Genética</td><td>Ambiental</td></tr>
@@ -108,7 +117,7 @@ Tareas Mentales simples (perceptivas, sensoriales, etc.)</td><td>Tareas cognitiv
 <tr><th>Enfoque</th><td>Naturaleza y estructura</td><td>Evaluación y aplicación</td></tr>
 </table>
 
-{221}
+<nav>pág. 221</nav>
 
 <div class="cuadro">
 <div class="cuadrotitulo">Razones y hechos que apoyan el factor “g”</div>
@@ -122,7 +131,7 @@ Tareas Mentales simples (perceptivas, sensoriales, etc.)</td><td>Tareas cognitiv
 * Tiene relación con otras variables objetivas (independientes del Análisis Factorial) como las psicofisiológicas o los estudios experimentales sobre cronometría mental.
 </div>
 
-{224}
+<nav>pág. 224</nav>
 
 <div class="cuadro">
 <div class="cuadrotitulo">Razones para un acercamiento entre las concepciones unitarias y múltiples de la inteligencia</div>
@@ -132,7 +141,7 @@ Tareas Mentales simples (perceptivas, sensoriales, etc.)</td><td>Tareas cognitiv
 Muchos autores defienden que todos los datos factoriales son finalmente compatibles formando parte de un continuo heterogéneo y jerárquico, como muestra el modelo más reciente, de carácter comprehensivo, de Carroll.
 </div>
 
-{228}
+<nav>pág. 228</nav>
 
 <div class="cuadro">
 <div class="cuadrotitulo">Corriente científica principal sobre la inteligencia: evidencia sobre el CI y su evaluación</div>
@@ -154,7 +163,7 @@ Muchos autores defienden que todos los datos factoriales son finalmente compatib
   * Ciertos rasgos de personalidad como talentos, aptitudes, capacidades físicas, experiencia, etc. son importantes, pero siempre con una aplicabilidad más reducida       (o desconocida) y una capacidad de generalización menor. A veces esos otros rasgos se identifican como otras “inteligencias”.
 </div>
 
-{233}
+<nav>pág. 233</nav>
 
 ### Principales modelos estructurales de la inteligencia
 
@@ -166,7 +175,7 @@ Muchos autores defienden que todos los datos factoriales son finalmente compatib
   * ¿Qué estructura presenta el conjunto de dichas habilidades; que configuración se deduce de las mismas?
 * El estudio de la estructura de la inteligencia a nivel de **rasgo** se ha realizado a partir de una técnica estadístico-matemática, el **Análisis Factorial Exploratorio**, Extrae las dimensiones o factores que subyacen a las **interrelaciones** entre un elevado número de variables observadas. Es decir, pretende extraer la **variación conjunta** que tienen en común las variables observadas con la **mínima pérdida de información**. En este sentido la inteligencia (al ser un constructo inobservable directamente) puede inferirse a partir del análisis factorial exploratorio del rendimiento cognitivo. Esta técnica trata de responder el número de capacidades que existen, cómo se organizan, etc.
 
-{234}
+<nav>pág. 234</nav>
 
 #### Principales estructuras de organización de la inteligencia
 
@@ -175,7 +184,7 @@ Muchos autores defienden que todos los datos factoriales son finalmente compatib
   * El Modelo de **Habilidades Primarias** múltiples e **independientes** de **Thurstone** (1938).
 * Existen **múltiples concepciones en torno a la estructura** que configuran los factores. La mayor parte de los psicólogos diferencialistas terminarán por considerar que la inteligencia es de **naturaleza jerárquica**. Asimismo, los modelos jerárquicos más importantes permitirán solventar la dicotomía unicidad/multiplicidad en torno al número de factores que componen la inteligencia. 
 
-{235}
+<nav>pág. 235</nav>
 
 ##### Modelos factoriales no jerárquicos de la inteligencia
 * **Modelo de Inteligencia General: Spearman**
@@ -396,7 +405,7 @@ El desarrollo intelectual  puede alargarse en la medida en que el contexto viven
   * Se refiere a un único factor de inteligencia general (3G) que se corresponde al factor “g” de Spearman. 
   * Está vinculado a la mayoría de factores de segundo orden, y suele aparecer en el segundo o tercer nivel de factorialización. 
   * El factor “g” no representa por igual a todos los factores del segundo estrato. Los **mejor representados** son la inteligencia **fluida** y la **cristalizada**.
-
+</div>
 
 #### Balance de las aportaciones de los modelos estructurales de la inteligencia
 
@@ -429,6 +438,7 @@ Gran parte del trabajo desarrollado en la taxonomía de las capacidades intelect
 * Existen factores **comunes** o **generales** que abarcan **diferentes capacidades**. Hay muchos test, procedimientos, paradigmas, etc. para evaluar las capacidades mentales y procesos cognitivos, pero existe una gran redundancia en los aspectos que evalúan. Es decir, comparten un gran porcentaje de varianza (evalúan aspectos comunes), por ello un elevado número de medidas de las capacidades humanas pueden ser descritas, con gran fiabilidad, mediante un número relativamente pequeño de factores comunes.
 * La inteligencia se organiza **jerárquicamente**.
 * Se han encontrado **cuatro niveles de factores comunes dentro de la estructura jerárquica** de la inteligencia. En concreto más de 40 aptitudes mentales primarias resumen los aspectos comunes que evalúan los cientos de test que existen. A su vez, éstas no son totalmente independientes, y sus relaciones pueden resumirse aproximadamente en 10 factores de segundo orden. Asimismo, éstos 10 tampoco son completamente independientes y, por ello, al extraer los aspectos que miden en común se obtienen dos factores comunes de tercer orden dentro de la jerarquía. Estos dos también están relacionados positivamente, lo cual indica la existencia de un factor común.
+</div>
 
 ## Resumen
 
@@ -454,3 +464,6 @@ En conclusión, el 80% de la variación existente en habilidades intelectuales e
 
 La estructura de la inteligencia es considerada en última instancia, una jerarquia flexible. En este sentido, varios autores recomiendan que, a la hora de construir un test, utilicen el nivel de jerarquía más apropiado para sus propósitos.
 
+  
+</body>
+</html>

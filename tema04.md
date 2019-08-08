@@ -1,7 +1,17 @@
-# Tema 4.                         Métodos de investigación en el estudio de las diferencias individuales
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <title>Diferencias Individuales</title>
+  <link href="styles.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+# Tema 4. Métodos de investigación en el estudio de las diferencias individuales
 ## 1. Introducción
 
-{146}
+<nav>pág. 146</nav>
 
  Desde los inicios de la actividad cognitiva consciente y organizada, el ser humano ha intentado acceder al conocimiento y comprensión de su mundo.
 
@@ -19,7 +29,7 @@ El saber científico a diferencia del conocimiento ordinario (deriva del sentido
 ## 2. Contenidos del tema
 ### Aplicación del método científico al análisis de la variación individual 
 
-{149}
+<nav>pág. 149</nav>
 
 #### El “cubo de datos” o “matriz básica de datos”  de Cattell 
 * Representa los diferentes tipos de **relaciones bivariadas** que pueden darse entre las variables objeto de estudio.
@@ -34,7 +44,7 @@ El saber científico a diferencia del conocimiento ordinario (deriva del sentido
     * La **Q** correlaciona individuos a través de múltiples tests o variables, con el fin de formar grupos de individuos o tipos de personas que tengan en común cualidades, intereses, etc.
     * Estas técnicas **no informan sobre la variabilidad intraindividual**.
 
-{150}
+<nav>pág. 150</nav>
 
   * Las **Técnicas P y O** estudian **en un único sujeto** las relaciones entre ocasiones y tests.
     * La **P** estudia el cambio intraindividual en la conducta, es decir, estudia las correlaciones entre múltiples test (o variables). Así se pueden estudiar los cambios que una persona tiene (ej, en su estado de ánimo) o la evolución de sus capacidades intelectuales, a lo largo del tiempo.
@@ -63,7 +73,7 @@ Sigue el principio de causalidad y se enmarca dentro del paradigma **Estímulo-R
 
 Las investigaciones se diseñan, generalmente, en **laboratorios** que posibiliten el **control y manipulación** de las variables.
 
-{154}
+<nav>pág. 154</nav>
 
 * Mediante el **control** se trata de garantizar, que todos los cambios de la VD se deban exclusivamente a la manipulación de la VI, es decir, que el experimento tenga una elevada validez interna eliminando la varianza de error que pudiera interferir. Su interés es estudiar la varianza entre tratamientos, por ello se procura suprimir la influencia de las diferencias individuales (varianza entre individuos), que en este ámbito representan un tipo de varianza de error a desestimar.
 * Se trata de **reducir la varianza de error** formando grupos experimentales que sean homogéneos en las variables organísmicas (o de sujeto). Para ello se asigna aleatoriamente cada   sujeto a los distintos grupos experimentales sobre los que posteriormente se aplicará una condición de la VI. La **aleatorización** es indispensable (establece igualdad preexperimental entre los grupos) para anular el efecto de las diferencias individuales previas que pudieran existir entre los mismos. No elimina la variabilidad debida a “variables extrañas”, la distribuye equitativamente entre las diferentes condiciones experimentales. Otro aspecto que contribuye a minimizar la influencia de la variabilidad individual es **contar con un número elevado de sujetos** por cada grupo experimental.
@@ -78,7 +88,7 @@ Disciplinas cuya investigación se asienta en el paradigma experimental: Psicolo
 ##### Psicología correlacional 
 Precursores: **Galton** (influido por la Teoría de la Evolución de su primo Darwin) y **Spearman**. Ambos se interesaron por la conducta de los individuos y trataron de inferir las dimensiones comunes que justificaban las diferencias individuales. Se basa en el principio de correlación y se enmarca dentro del paradigma **Respuesta–Respuesta (R-R)**.
 
-{155}
+<nav>pág. 155</nav>
 
 Objetivo: trata de descubrir las posibles relaciones de covariación (variación conjunta) entre múltiples variables.
 
@@ -93,7 +103,7 @@ La psicología de las diferencias individuales estudia las **variables endógena
 
 A diferencia de la Experimental, se centra en el estudio de la **varianza entre individuos** y concibe la “varianza del tratamiento” como la “varianza de error a desestimar”. De hecho las variables ambientales (varianza entre tratamientos) pueden afectar a la manifestación de las diferencias naturales observadas entre las personas, atenuando o enmascarando la relevancia de las mismas.
 
-{156}
+<nav>pág. 156</nav>
 
 Exige **tratamientos uniformes** (control de las variables ambientales o situacionales) para garantizar la **validez externa** de las diferencias individuales observadas.
 
@@ -136,7 +146,7 @@ Psicología experimental</th><th> Psicología correlacional</th></tr>
 
 ### Diseños de investigación en el estudio de diferencias individuales 
 
-{160}
+<nav>pág. 160</nav>
 
 Las distintas estrategias “técnico–metodológicas” de investigación estarán vinculadas a una serie de técnicas “estadístico–analíticas” que posibilitaran el logro de objetivos propuestos. La elección de una u otra estrategia estará en función de las hipótesis, características de las muestras, operativización de los constructos, instrumentos de medida,...
 
@@ -153,7 +163,7 @@ Si bien, las hipótesis descriptivas y predictivas han sido habituales en psicol
 
 #### Técnicas multivariadas en el estudio de las diferencias individuales 
 
-{162}
+<nav>pág. 162</nav>
 
 **Técnicas Multivariadas**: herramientas estadísticas más utilizadas en Psicología de las Diferencias individuales. **Galton**, **Spearman**, **Pearson**, **Cattell** favorecieron el progreso de esta disciplina y de la estadística. El perfeccionamiento de los análisis multivariados, junto con la explosión informático-tecnológica enriquecieron la Psicología Diferencial moderna.
 * El concepto multivariado se refiere a un amplio rango de estrategias de investigación y análisis de datos que operan con **muchas variables simultáneamente**. Estas estrategias que se desarrollaron para cubrir objetivos descriptivos e  inferenciales en estadística, suponen, una extensión de técnicas univariadas y bivariadas (correlación, regresión simple, análisis de varianza,...).
@@ -168,7 +178,7 @@ Si bien, las hipótesis descriptivas y predictivas han sido habituales en psicol
 * Mediante estas técnicas se intenta conocer cómo funciona la relación entre VI y VD, a diferencia de las técnicas anteriores que se centran en el estudio de la estructura de las relaciones entre múltiples variables. 
 * A las VI se las denomina variables predictoras (se utilizan para hacer la predicción); las VD reciben el nombre de variables criterio (son empleadas para estudiar si la predicción es adecuada o no)
 
-{164}
+<nav>pág. 164</nav>
 
 Además de este criterio clasificatorio, se ha considerado el tipo de escala de medida de las diferentes variables estudiadas. 
 En concreto, las variables pueden ser de dos tipos:
@@ -209,13 +219,13 @@ Esquema de diseños de investigación en la Psicología de las Diferencias Indiv
 #### Manipulabilidad de los diseños 
 ##### Diseños expost-facto 
 
-{165}
+<nav>pág. 165</nav>
 
 **Campbell** y **Stanley** acuñaron el término en 1966.
 
 **Kerlinger**: “la investigación ex–post–facto es una búsqueda sistemática empírica, en la cual no se tiene control directo sobre las VI, porque ya acontecieron sus manifestaciones o por ser intrínsecamente no manipulables. Se hacen inferencias sobre las relaciones entre ellas, sin intervención directa, a partir de la variación concomitante de las VI y VD”.
 
-{166}
+<nav>pág. 166</nav>
 
 Se caracterizan por: 
 * El investigador no puede manipular ni modificar la VI, puesto que ya viene dada (ej, la variable sexo) 
@@ -223,7 +233,7 @@ Se caracterizan por:
   
 Estos diseños representan el experimento típico en una Psicología de las diferencias individuales en donde se analizan las interdependencias entre las variables. A pesar de no basarse en análisis causales, si es frecuente distinguir entre VD y VI, no definida esta última de forma operacional sino en función de criterios teóricos previos. Se concibe la **VD** como el constructo **descriptivo** que debe explicarse, y la **VI** la que tiene valor **explicativo**. Un criterio fundamental, en esta distinción, será el orden de sucesión temporal de ambos constructos (la VI es anterior a la VD).
 
-{167}
+<nav>pág. 167</nav>
 
 Estas investigaciones son necesarias porque hay cuestiones que no pueden ser abordadas de forma experimental. En este sentido, algunas de las VI analizadas son el sexo, la edad, la personalidad, la inteligencia,... Algunos objetos de estudio pueden ser por ejemplo diferencias existentes en el rasgo de introversión en función del sexo, diferencias que hay en una determinada capacidad intelectual en función de la edad, etc.
 
@@ -264,7 +274,7 @@ Cuando el conocimiento de las variables que se van a estudiar permite establecer
     *  Concluir acerca del ajuste de los datos desde un modelo estadístico a un modelo teórico postulado a priori. Esto posibilitará la obtención de indicadores externos adecuados para los propósitos de la investigación.
   *  **Páez** recomienda esta técnica sólo cuando el conocimiento previo del fenómeno a estudiar sea lo suficientemente exhaustivo, y esté en una fase de madurez adecuada para tomar decisiones.
 
-{172}
+<nav>pág. 172</nav>
 
 <div class="cuadro">
 <div class="cuadrotitulo">Análisis factorial</div>
@@ -303,7 +313,7 @@ Cuando el conocimiento de las variables que se van a estudiar permite establecer
 </table>
 </div>
 
-{184}
+<nav>pág. 184</nav>
 
 ###### Diseños Propiamente Comparativos 
 
@@ -336,7 +346,7 @@ Mediante **Estrategias de Correlatos**, se examina el rendimiento de los sujetos
 
 Mediante **Estrategias Componenciales** se analiza el rendimiento de los sujetos en una serie de tareas experimentales que suelen ser variaciones de los ítems incluidos en los test que evalúan capacidades mentales.
 
-{186}
+<nav>pág. 186</nav>
 
 ###### Temporalidad de los diseños 
 Se refiere al momento temporal de recogida de datos. Hay dos tipos de Diseños Temporales o Evolutivos: **Transversales** y **Longitudinales**. Ambos estudian los cambios vinculados a la edad cronológica (VI) en la VD estudiada (ej, nivel de inteligencia general, grado de introversión, rapidez perceptiva,…).
@@ -356,7 +366,7 @@ La edad no es la causante del cambio sino los **procesos evolutivos** que actúa
 <tr><th>Principal sesgo metodológico</th><td>Los efectos de cohorte o de generación</td><td>Los efectos históricos o del aprendizaje</td></tr>
 </table>
 
-{187}
+<nav>pág. 187</nav>
 
 **El diseño transversal**
 * Recoge los datos de forma **sincrónica**, ya que estudia en un mismo momento temporal, una VD determinada en diferentes grupos de sujetos seleccionados según edad cronológica.
@@ -370,7 +380,7 @@ La edad no es la causante del cambio sino los **procesos evolutivos** que actúa
     * No sabe hacia dónde se podría dirigir el cambio de cada generación o de cada individuo, ya que se evalúa en un momento temporal.
     * Dentro de una generación evaluada se incluyen sujetos que tienen la **misma edad cronológica pero** con **diferentes niveles de maduración** o procesos de cambio, tales como la edad mental, la edad biológica o la edad social.
   
-{188}
+<nav>pág. 188</nav>
   
 **El diseño longitudinal** 
 * Obtiene datos de forma **diacrónica**, ya que estudia en diferentes momentos temporales el cambio que se produce vinculado a la edad en la VD de interés.
@@ -390,7 +400,7 @@ La edad no es la causante del cambio sino los **procesos evolutivos** que actúa
   
 ## Resumen 
 
-{191}
+<nav>pág. 191</nav>
 
 * Las dos disciplinas de la Psicología Científica son: La Psicología **Experimental** y la Psicología **Correlacional**.
 * Ambas derivan de diferentes paradigmas, tienen orígenes y objetivos específicos, y cada una de ellas emplea estrategias particulares de investigación.
@@ -407,3 +417,7 @@ La edad no es la causante del cambio sino los **procesos evolutivos** que actúa
   * Técnicas de **Dependencia**: estudian una serie de variables independientes para predecir y explicar una o más variables dependientes.
   * Técnicas de **Interdependencia**: estudian la covariación entre múltiples variables con el fin de describir, clasificar y conocer la estructura de las relaciones entre dichas variables.
 * El investigador utilizará el análisis estadístico en función de su diseño de investigación, del número y naturaleza de las variables a estudiar y de los objetivos propuestos.
+
+  
+</body>
+</html>

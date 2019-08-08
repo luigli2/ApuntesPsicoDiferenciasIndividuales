@@ -1,4 +1,15 @@
-﻿# Tema 3\. Marco conceptual de la psicología de las diferencias individuales.
+﻿<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <title>Diferencias Individuales</title>
+  <link href="styles.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+
+# Tema 3. Marco conceptual de la psicología de las diferencias individuales.
 
 <nav>pág. 104</nav>
 
@@ -467,7 +478,7 @@ Características definitorias de los rasgos:
        - Nivel de **rasgos** o factores primarios definidos en términos de intercorrelaciones significativas entre conductas habituales.
        - Nivel de **tipos**, o factores de orden superior, o de segundo orden, derivados de las intercorrelaciones existentes entre los rasgos o factores de primer orden.
           <table border='1'>
-          <tr><th>Niveles</th><th>Generalidad</th><th>Ejemplo</tr>
+          <tr><th>Niveles</th><th>Generalidad</th><th>Ejemplo</th></tr>
                <tr><td>Respuesta **específica**</td><td>El menos general</td><td>Una persona se enfada y se siente culpable en una circunstancia concreta</td></tr>
                <tr><td>Respuesta **habitual**</td><td>Poco general</td><td>Una persona suele enfadarse y gritar en su relación con la familia</td></tr>
                <tr><td>**Rasgo**</td><td>General</td><td>Una persona se enfada habitualmente y tiene sentimientos de culpabilidad y ansiedad tanto en su casa como en el trabajo</td></tr>
@@ -549,3 +560,7 @@ Al logro de este objetivo contribuyen, tanto el paso desde el estudio de estruct
 - Las fuentes donde la diversidad humana se asienta pueden ser de carácter **psicológico**, **biológico** o **social** y, fundamentalmente, siendo el hombre un sistema biopsicosocial complejo, son el fruto de las transacciones múltiples existentes entre estas tres fuentes principales de variabilidad.
 - Existe un extenso campo de investigación sobre diferencias individuales en torno a dos constructos: la **inteligencia** y la **personalidad**, ofreciendo una perspectiva de carácter **integrador** basada en la consideración de constructos derivados de la interrelación entre distintos aspectos cognitivos emocionales y motivacionales.
 - Existen una serie de características centrales de la unidad fundamental de investigación sobre diferencias individuales, el **rasgo**, de carácter **disposicional**, perfilándose posteriormente el tipo de unidades procesuales con los que se está trabajando desde un acercamiento explicativo.
+
+  
+</body>
+</html>
