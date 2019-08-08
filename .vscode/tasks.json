@@ -78,6 +78,12 @@
             "type": "shell",
             "command": "markdown-it tema01.md -o tema01.xhtml",
             "problemMatcher": []
+        },
+        {
+            "label": "Compilar Markdown Readme",
+            "type": "shell",
+            "command": "markdown-it README.md -o README.xhtml",
+            "problemMatcher": []
         }
 
     ]
