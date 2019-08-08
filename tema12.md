@@ -551,122 +551,119 @@ Las enfermedades cardiovasculares y las inmunológicas, son dos áreas especialm
 
 
 ###### Enfermedades Cardiovasculares y Comportamiento Pro-Coronario
-Enfermedades Cardiovasculares: principal causa de mortalidad en las sociedades industrializadas. Evidente en las causas de fallecimiento prematuro de adultos. Son las causantes de inhabilitaciones laborales tempranas que ocasionan serias limitaciones para el desarrollo de una vida normal, en un elevado número de personas que, por su edad, deberían estar desempeñando una vida laboral activa.
+**Enfermedades Cardiovasculares**: principal causa de mortalidad en las sociedades industrializadas. Evidente en las causas de fallecimiento prematuro de adultos. Son las causantes de inhabilitaciones laborales tempranas que ocasionan serias limitaciones para el desarrollo de una vida normal, en un elevado número de personas que, por su edad, deberían estar desempeñando una vida laboral activa.
 
-Tradicionalmente, junto al estrés, un patrón comportamental complejo, el Patrón de Conducta Tipo A (PCTA) representó durante varias décadas el ejemplo más importante del valor predictivo de las variables de personalidad en el desarrollo de enfermedades específicas y del interés por este nuevo tipo de estudios. 
-PCTA: complejo de acción-emoción que puede ser observado en cualquier persona que esté involucrada, de forma agresiva, en una lucha crónica e incesante para conseguir más y más en menos tiempo y, si es necesario, en contra de los esfuerzos que otras cosas o personas puedan llevar a cabo en oposición.  
+Tradicionalmente, junto al estrés, un patrón comportamental complejo, el **Patrón de Conducta Tipo A** (**PCTA**) representó durante varias décadas el ejemplo más importante del valor predictivo de las variables de personalidad en el desarrollo de enfermedades específicas y del interés por este nuevo tipo de estudios. 
 
+**PCTA**: **complejo de acción-emoción** que puede ser observado en cualquier persona que esté involucrada, de forma agresiva, en una lucha crónica e incesante para conseguir más y más en menos tiempo y, si es necesario, en contra de los esfuerzos que otras cosas o personas puedan llevar a cabo en oposición.  
 
-
-Friedman y Rosenman fueron los cardiólogos que descubrieron este patrón, tras la observación de comportamientos y características similares en sus pacientes coronarios. 
+**Friedman** y **Rosenman** fueron los **cardiólogos que descubrieron este patrón**, tras la observación de comportamientos y características similares en sus pacientes coronarios. 
 
 Tiene las siguientes manifestaciones:
 
-Manifestaciones Comportamentales Complejas: el PCTA reúne cuatro componentes fundamentales: competitividad y ambición elevadas que conducen a querer destacar en cualquier actividad que el individuo Tipo-A aprenda; sobrecarga laboral incluso en fines de semana y vacaciones; impaciencia y un tipo de hostilidad de carácter instrumental, que surgen cuando se siente bloqueado en sus propósitos o se ve obligado a disminuir su ritmo de trabajo o actividad y que representan la vertiente emocional del patrón.
-Manifestaciones Conductuales de Carácter Específico: a nivel psicomotor, los PCTA presentan movimientos rápidos y enérgicos, tensión facial y muscular, contracción frecuente del puño y la mandíbula, gesticulación excesiva y un estilo general agresivo e impaciente. Su forma de hablar es vehemente, mostrándose particularmente irritados frente a interlocutores lentos y dubitativos.
+* **Manifestaciones Comportamentales Complejas**: el PCTA reúne cuatro componentes fundamentales:
+  * **competitividad y ambición elevadas** que conducen a querer destacar en cualquier actividad que el individuo Tipo-A aprenda
+  * **sobrecarga laboral** incluso en fines de semana y vacaciones; 
+  * **impaciencia**
+  * un tipo de **hostilidad** de carácter **instrumental**, que surgen cuando se siente bloqueado en sus propósitos o se ve obligado a disminuir su ritmo de trabajo o actividad y que representan la **vertiente emocional** del patrón.
+* **Manifestaciones Conductuales de Carácter Específico**: a nivel psicomotor, los PCTA presentan movimientos rápidos y enérgicos, tensión facial y muscular, contracción frecuente del puño y la mandíbula, gesticulación excesiva y un estilo general agresivo e impaciente. Su **forma de hablar** es **vehemente**, mostrándose particularmente **irritados frente a interlocutores lentos** y dubitativos.
 
-Prevalente en las sociedades occidentales y, especialmente, en el ámbito de profesiones en donde la competitividad es un elemento clave, como en el mundo empresarial. Muy temprano se postuló que en la base del comportamiento del individuo Tipo-A, se encontraría un exceso de motivación de control. Los individuos Tipo-A perciben más situaciones como potencialmente amenazantes, dada su necesidad de mantener las riendas de los acontecimientos.
-Los primeros estudios epidemiológicos mostraron que una forma característica de comportamiento podía ser un predictor significativo de enfermedades cardiovasculares, especialmente infarto de miocardio, tanto en estudios longitudinales como transversales. Las investigaciones posteriores se centraron en la búsqueda de los mecanismos explicativos de esta asociación. En este sentido, si bien es conocido que las enfermedades cardiovasculares tienen su origen, básicamente en el progresivo deterioro de las arterias coronarias, o arteriosclerosis coronaria. El mecanismo fisiológico del deterioro de las arterias está asociado, en gran medida, a un exceso de reactividad simpatico-adrenomedular. Curiosamente, este tipo de activación está asociada a un afrontamiento activo de los estresores.
-En consecuencia, La hipótesis general se centró en que los individuos Tipo A, caracterizados por un estilo de afrontamiento activo que exacerba la reactividad descrita, presentarían una mayor reactividad cardiovascular ante estímulos potencialmente amenazantes. La recurrencia con la que estas personas generan y se ve involucradas en situaciones que implican una activación frecuente, daría lugar a un impacto dañino sobre el sistema cardiovascular.
-A partir de los años 80, distintos resultados contradictorios estimularon la investigación sobre si había aspectos más nocivos del PCTA que otros. El comportamiento pro-coronario está asociado, fundamentalmente, al eje Hostilidad-Irritabilidad-Impaciencia, tanto en lo que se refiere al estudio de la morbilidad y mortalidad cardiovascular en estudios transversales y longitudinales, como en lo que respecta a la hipótesis de hiperreactividad cardiovascular (en tareas de laboratorio) como mecanismo explicativo.
+Prevalente en las sociedades occidentales y, especialmente, en el ámbito de profesiones en donde la competitividad es un elemento clave, como en el mundo empresarial. Muy temprano se postuló que en la base del comportamiento del individuo Tipo-A, se encontraría un exceso de **motivación de control**. Los individuos Tipo-A **perciben más situaciones como potencialmente amenazantes**, dada su necesidad de mantener las riendas de los acontecimientos.
 
+Los primeros estudios epidemiológicos mostraron que una forma característica de comportamiento podía ser un predictor significativo de enfermedades cardiovasculares, especialmente infarto de miocardio, tanto en estudios longitudinales como transversales. Las investigaciones posteriores se centraron en la búsqueda de los mecanismos explicativos de esta asociación. En este sentido, si bien es conocido que las enfermedades cardiovasculares tienen su origen, básicamente en el progresivo **deterioro de las arterias coronarias**, o arteriosclerosis coronaria. El mecanismo fisiológico del deterioro de las arterias está asociado, en gran medida, a un **exceso de reactividad simpatico-adrenomedular**. Curiosamente, este tipo de activación está asociada a un **afrontamiento activo de los estresores**.
 
+En consecuencia, La hipótesis general se centró en que los individuos Tipo A, caracterizados por un estilo de afrontamiento activo que exacerba la reactividad descrita, presentarían una **mayor reactividad cardiovascular** ante estímulos potencialmente amenazantes. La recurrencia con la que estas personas generan y se ve involucradas en situaciones que implican una activación frecuente, daría lugar a un **impacto dañino sobre el sistema cardiovascular**.
 
+A partir de los años 80, distintos resultados contradictorios estimularon la investigación sobre si había **aspectos más nocivos del PCTA que otros**. El **comportamiento pro-coronario** está asociado, fundamentalmente, al **eje Hostilidad-Irritabilidad-Impaciencia**, tanto en lo que se refiere al estudio de la morbilidad y mortalidad cardiovascular en estudios transversales y longitudinales, como en lo que respecta a la hipótesis de hiperreactividad cardiovascular (en tareas de laboratorio) como mecanismo explicativo.
 
+<nav>pág. 671</nav>
 
+<div class="cuadro">
+<div class="cuadrotitulo">Vias comportamentales por las que el pcta puede incrementar la experiencia de estrés</div>
 
+EL PCTA **representa un modelo de funcionamiento transaccional** con el entorno que incrementa significativamente el estrés, y el potencial patogénico del patrón, en función de los siguiente aspectos:
+* Crea, elige y participa activamente en situaciones que, objetivamente, presentan un mayor nivel de reto y exigencias.
+* Valora frecuentemente las situaciones como amenazantes o retos por su necesidad de control, independientemente de las características objetivas de las mismas.
+* Su estilo de afrontamiento (activo y de confrontación) al realizar las tareas contribuye a **prolongar el contacto con los estresores**.
+* La expresión abierta de conductas Tipo-A provoca o elicita **respuestas negativas** por parte **del entorno**, lo que conduce a una red de **apoyo social más deficitaria**.
+* Suele mostrarse insatisfecho con sus logros, **procesando en mayor medida** aquella **información**, o feed-back, que confirma que no ha logrado lo que se ha propuesto y **que debe seguir luchando**.
+* Presenta una estrategia de **focalización** atencional característica destinada a **rendir al máximo** (ignorando distractores potenciales), observándose una **negación de los síntomas de estrés** con la consiguiente prolongación del contacto con el estresor, así como un retraso en la solicitud de ayuda médica cuando esta es necesaria.
+</div>
 
-Vias comportamentales por las que el pcta puede incrementar la experiencia de estrés
-EL PCTA representa un modelo de funcionamiento transaccional con el entorno que incrementa significativamente el estrés, y el potencial patogénico del patrón, en función de los siguiente aspectos:
-Crea, elige y participa activamente en situaciones que, objetivamente, presentan un mayor nivel de reto y exigencias.
-Valora frecuentemente las situaciones como amenazantes o retos por su necesidad de control, independientemente de las características objetivas de las mismas.
-Su estilo de afrontamiento (activo y de confrontación) al realizar las tareas contribuye a prolongar el contacto con los estresores.
-La expresión abierta de conductas Tipo-A provoca o elicita respuestas negativas por parte del entorno, lo que conduce a una red de apoyo social más deficitaria.
-Suele mostrarse insatisfecho con sus logros, procesando en mayor medida aquella información, o feed-back, que confirma que no ha logrado lo que se ha propuesto y que debe seguir luchando.
-Presenta una estrategia de focalización atencional característica destinada a rendir al máximo (ignorando distractores potenciales), observándose una negación de los síntomas de estrés con la consiguiente prolongación del contacto con el estresor, así como un retraso en la solicitud de ayuda médica cuando esta es necesaria.
+El área de la **investigación actual** en variables psicosociales y la enfermedad cardiovascular ya no está especialmente copada por el PCTA global, sino, más bien, por otra serie de variables psicológicas que se relaciona, fundamentalmente, con la **vertiente emocional negativa**.
 
-
-El área de la investigación actual en variables psicosociales y la enfermedad cardiovascular ya no está especialmente copada por el PCTA global, sino, más bien, por otra serie de variables psicológicas que se relaciona, fundamentalmente, con la vertiente emocional negativa.
 La evidencia empírica a favor del estrés y de las emociones negativas que alteran de forma severa los procesos fisiológicos relevantes en este tipo de trastornos, y pueden afectar al sistema coronario a través de los hábitos de salud, es muy potente. En todo caso, se debe tener en cuenta que la incidencia de estos factores psicológicos sobre poblaciones inicialmente sanas puede tener lugar en distintas etapas del desarrollo de la patología, a lo largo de décadas:
-un efecto en los primeros estadios de la enfermedad de las arterias coronarias.
-Un efecto sobre el ritmo o progreso de la enfermedad.
-Un efecto de la precipitación o manifestación de un episodio coronario agudo.
-O alguna combinación de los mismos.
+* un efecto en los primeros estadios de la enfermedad de las arterias coronarias.
+* Un efecto sobre el ritmo o progreso de la enfermedad.
+* Un efecto de la precipitación o manifestación de un episodio coronario agudo.
+* O alguna combinación de los mismos.
 
-La hostilidad, ira, depresión, ansiedad, pesimismo, o el afecto negativo, más allá de ser meros indicadores de sintomatología subjetiva, tienen un potencial predictivo significativo, tanto de eventos coronarios futuros en población inicialmente sana, como de forma más potente (ej, en el caso de la ansiedad), de episodios recurrentes en pacientes con CHD establecida. Así mismo, predicen una supervivencia menor de los pacientes, si bien aún hace falta mucha investigación de carácter prospectivo.
+La **hostilidad, ira, depresión, ansiedad, pesimismo**, o el afecto negativo, más allá de ser meros indicadores de sintomatología subjetiva, **tienen un potencial predictivo significativo**, tanto de eventos coronarios futuros en población inicialmente sana, como de forma más potente (ej, en el caso de la ansiedad), de episodios recurrentes en pacientes con CHD establecida. Así mismo, predicen una supervivencia menor de los pacientes, si bien aún hace falta mucha investigación de carácter prospectivo.
 
+<nav>pág. 673</nav>
 
+###### Enfermedades Inmunológicas y Psiconeuroinmunología
+Las relaciones entre **enfermedades inmunológicas y posibles factores psicológicos** precursores del mismo no son tan claras como en el caso de las enfermedades cardiovasculares; sin embargo, han dado lugar al desarrollo de un área de investigación de nombre propio: la **Psiconeuroinmunología**. Las **causas** pueden deberse a varias razones:
+* Heterogeneidad de los procesos patológicos característicos de este tipo de enfermedades, que aúnan muy diversos tipos de manifestaciones derivadas de fenómenos complejos (como el cáncer) que comprenden la interacción de factores genéticos, inmunológicos, psicosociales y ambientales.
+* Dificultad de estimar el papel previo de variables psicológicas con antelación al diagnóstico de la enfermedad.
+* Sofisticación tecnológica, y los elevados costes asociados, que se requiere para una investigación metodológicamente potente en este campo.
 
-
-
-
-Enfermedades Inmunológicas y Psiconeuroinmunología
-Las relaciones entre enfermedades inmunológicas y posibles factores psicológicos precursores del mismo no son tan claras como en el caso de las enfermedades cardiovasculares; sin embargo, han dado lugar al desarrollo de un área de investigación de nombre propio: la Psiconeuroinmunología. Las causas pueden deberse a varias razones:
-Heterogeneidad de los procesos patológicos característicos de este tipo de enfermedades, que aúnan muy diversos tipos de manifestaciones derivadas de fenómenos complejos (como el cáncer) que comprenden la interacción de factores genéticos, inmunológicos, psicosociales y ambientales.
-Dificultad de estimar el papel previo de variables psicológicas con antelación al diagnóstico de la enfermedad.
-Sofisticación tecnológica, y los elevados costes asociados, que se requiere para una investigación metodológicamente potente en este campo.
 Los estudios de las diferencias individuales en psiconeuroinmunología son prometedores. En la línea de lo que la investigación en personalidad y afrontamiento sugieren, las personas difieren en su forma de percibir y reaccionar ante un mismo evento, y estas diferencias parecen provocar, a su vez, diferencias en las respuestas endocrinas y del sistema inmunológico.
-La evidencia clínica de la relación entre el estrés y la presencia de enfermedades inmunológicas como el cáncer, infecciosas, autoinmunes, etc. va siendo cada vez mayor al tiempo que la evidencia directa de carácter empírico de las vías posibles por las que esta asociación se produce es aún escasa, en parte por problemas y dificultades metodológicas en este campo. Por otra parte a medida en que nuevos procedimientos tecnológicos en relación con los parámetros inmunológicos se van desarrollando, va quedando que el sistema inmune se conforma con subgrupos de células que llevan a cabo funciones inmunológicas específicas, por lo que la investigación se deberá encaminar a determinar, de forma más específica y puntual, en qué medida estos subgrupos se relacionan con las variables psicológicas y psicosociales.
 
-Descenso en la regulación del sistema inmunológico.
-Aunque el sistema inmunológico es el mecanismo más importante de defensa del organismo, puede afectar el desarrollo de tumores malignos a través de alteraciones en el sistema endocrino, y en concreto, en los mecanismos hormonales del eje pituitario-adrenal que afectan al sistema inmunológico.
-Alteraciones en los mecanismos de reparación celular de ADN.
-Alteraciones en la reparación de tejidos. (ej, tras una intervención quirúrgica)
-A esto debe añadirse los efectos potencialmente sinérgicos de la práctica de hábitos nocivos para la salud.
+La **evidencia clínica** de la **relación entre el estrés y** la presencia de **enfermedades inmunológicas** como el **cáncer**, **infecciosas**, **autoinmunes**, etc. va siendo cada vez mayor al tiempo que la evidencia directa de carácter empírico de las vías posibles por las que esta asociación se produce es aún escasa, en parte por problemas y dificultades metodológicas en este campo. Por otra parte a medida en que nuevos procedimientos tecnológicos en relación con los parámetros inmunológicos se van desarrollando, va quedando que el **sistema inmune** se conforma con **subgrupos de células que llevan a cabo funciones inmunológicas específicas**, por lo que la investigación se deberá encaminar a determinar, de forma más específica y puntual, en qué medida estos subgrupos se relacionan con las variables psicológicas y psicosociales.
+
+La evidencia apoya que el estrés produce:
+* Descenso en la regulación del sistema inmunológico.
+* Aunque el sistema inmunológico es el mecanismo más importante de defensa del organismo, puede afectar el desarrollo de tumores malignos a través de alteraciones en el sistema endocrino, y en concreto, en los mecanismos hormonales del eje pituitario-adrenal que afectan al sistema inmunológico.
+* Alteraciones en los mecanismos de reparación celular de ADN.
+* Alteraciones en la reparación de tejidos. (ej, tras una intervención quirúrgica)
+* A esto debe añadirse los efectos potencialmente sinérgicos de la práctica de hábitos nocivos para la salud.
 
 Nuevamente, las emociones negativas como la depresión y la ansiedad, fundamentalmente, han mostrado un papel predictivo interesante en este campo.
-En cuanto al cáncer ¿existen características de personalidad que guarden relación con la etiología y desarrollo de diversos tipos de cáncer?, parece ser que sí, aunque no de forma muy potente. Los resultados de las investigaciones no son muy homogéneos, lo que dificulta el establecimiento de un patrón claro. A ello contribuyen varios factores entre los que destacan la falta de unificación en los instrumentos de evaluación utilizados, grandes variables existentes entre los diseños y procedimientos metodológicos usados  (así como las limitaciones existentes en muchos de ellos), y la falta de acuerdo total en relación a las variables implicadas y a su papel en el desarrollo de una enfermedad que supone el fracaso del sistema inmunológico del individuo.
 
+En cuanto al cáncer ¿existen características de personalidad que guarden relación con la etiología y desarrollo de diversos tipos de cáncer?, parece ser que sí, aunque **no de forma muy potente**. Los **resultados** de las investigaciones **no** son muy **homogéneos**, lo que dificulta el establecimiento de un patrón claro. A ello contribuyen varios factores entre los que destacan la falta de unificación en los instrumentos de evaluación utilizados, grandes variables existentes entre los diseños y procedimientos metodológicos usados  (así como las limitaciones existentes en muchos de ellos), y la falta de acuerdo total en relación a las variables implicadas y a su papel en el desarrollo de una enfermedad que supone el fracaso del sistema inmunológico del individuo.
 
+Entre las variables que han mostrado tener cierta relación con trastornos de tipo inmunológico, y en concreto con el cáncer, el **Patrón de Conducta Tipo-C**, que aúna las características de personalidad que, de forma separada, presentan cierta validez predictiva, ha sido **vinculado** con el desarrollo de algunos tipos de **cáncer de mama**.
 
+**Patrón de Conducta Tipo C**.  **Opuesto** a los valores y creencias, a las motivaciones, expectativas, y modos de afrontamiento del **PCTA**. 
 
-Entre las variables que han mostrado tener cierta relación con trastornos de tipo inmunológico, y en concreto con el cáncer, el Patrón de Conducta Tipo-C, que aúna las características de personalidad que, de forma separada, presentan cierta validez predictiva, ha sido vinculado con el desarrollo de algunos tipos de cáncer de mama.
+Diferencias:
+* Individuo **Tipo-A**: considerado, generalmente, como un triunfador social, brillante y capaz, logra salirse siempre con la suya, duro para negociar, adicto al trabajo y, en consecuencia, el perfil ideal de ejecutivo para muchas empresas.
+* Individuo **Tipo-C**: su motivación prioritaria es lograr la armonía en su entorno a costa de sacrificar sus propios deseos y objetivos, la resignación y la represión emocional (especialmente las negativas) Spielberger interpreta esta última característica como un exceso de conductas lógicas y racionales, junto a una defensividad emocional elevada basada en el control racional de las emociones.
 
-Patrón de Conducta Tipo C.  Opuesto a los valores y creencias, a las motivaciones, expectativas, y modos de afrontamiento del PCTA. 
-Diferencias 
-Individuo Tipo-A: considerado, generalmente, como un triunfador social, brillante y capaz, logra salirse siempre con la suya, duro para negociar, adicto al trabajo y, en consecuencia, el perfil ideal de ejecutivo para muchas empresas.
-Individuo Tipo-C: su motivación prioritaria es lograr la armonía en su entorno a costa de sacrificar sus propios deseos y objetivos, la resignación y la represión emocional (especialmente las negativas) Spielberger interpreta esta última característica como un exceso de conductas lógicas y racionales, junto a una defensividad emocional elevada basada en el control racional de las emociones.
-El Tipo C tiende a resolver las situaciones estresantes con estrategias de afrontamiento pasivas, basadas en la focalización sobre las necesidades de los demás a costa de minimizar o negar las necesidades, sentimientos y emociones propios. Esta búsqueda de un equilibrio social, a expensas del equilibrio psicológico, puede suscitar, a la larga, sentimientos de indefensión y desesperanza, y una ruptura de la homeóstasis biológica.
-En este caso, algunos de los mecanismos fisiológicos propuestos para vincular la personalidad y las estrategias de afrontamiento con el cáncer, hacen referencia a los contemplados en la activación recurrente y sostenida que los organismos presentan ante situaciones que el individuo debe resistir de forma pasiva sin poderlas cambiar. Existe evidencia del efecto supresor que una secreción más elevada o frecuente de cortisol y corticoesteroides (intensa actividad del eje pituitario-adreno-cortical), o un descenso de la secreción de catecolaminas (baja actividad del eje simpatico-adrenomedular) tienen sobre las células NK.
+El **Tipo C** tiende a resolver las situaciones estresantes con **estrategias de afrontamiento pasivas**, basadas en la **focalización** sobre las **necesidades de los demás a costa de minimizar o negar las necesidades, sentimientos y emociones propios**. Esta búsqueda de un **equilibrio social**, a expensas del **equilibrio psicológico**, puede suscitar, a la larga, sentimientos de indefensión y desesperanza, y una ruptura de la homeóstasis biológica.
+
+En este caso, algunos de los mecanismos fisiológicos propuestos para vincular la personalidad y las estrategias de afrontamiento con el cáncer, hacen referencia a los contemplados en la **activación recurrente y sostenida** que los organismos presentan ante situaciones que el individuo debe resistir de forma pasiva sin poderlas cambiar. Existe evidencia del **efecto supresor** que una secreción más **elevada** o frecuente **de cortisol y corticoesteroides** (**intensa actividad** del eje **pituitario-adreno-cortical**), o un descenso de la secreción de catecolaminas (**baja actividad del eje simpatico-adrenomedular**) tienen sobre las células NK.
+
 Para finalizar la investigación sobre este tipo de procesos biopsicosociales, en los que las diferencias individuales desempeñan un papel importante, permite aplicar los resultados obtenidos a los siguientes objetivos principales:
-Promoción y mantenimiento de la salud.
-Prevención de la enfermedad y mejora de la calidad de vida de los enfermos
-Mejora del sistema sanitario y las políticas de actuación sanitaria
-Formación de mejores profesionales en el campo de la salud.
+* Promoción y mantenimiento de la salud.
+* Prevención de la enfermedad y mejora de la calidad de vida de los enfermos
+* Mejora del sistema sanitario y las políticas de actuación sanitaria
+* Formación de mejores profesionales en el campo de la salud.
 
+<nav>pág. 675</nav>
 
-
-
-
-
-    1. Resumen 
+## Resumen
 Relevancia de la consideración de diferencias individuales en tres grandes áreas aplicadas:
-Educación
-Binet y Wechsler. Sus trabajos, pioneros en psicología diferencial repercutieron  en el desarrollo de test de inteligencia aplicados al ámbito escolar.
-Cambio en la concepción de la inteligencia y aptitudes cognitivas, pasan de considerarse como algo estrictamente innato y estático, a reconocerse su carácter ambiental y, por tanto, su susceptibilidad a ser modificados o estimulados por la instrucción (importancia del aprendizaje y experiencia).
-Valoración crítica de la trayectoria aplicada de la Psicología diferencial, poniendo de manifiesto algunas repercusiones negativas en el campo educativo, por lo que se plantean nuevas tendencias teóricas y prácticas destinadas a mejorar la intervención de esta disciplina en este ámbito. 
-Se enfatiza la importancia de variables estilísticas que ponen el acento en cómo el alumno aprende, en los distintos modos de lograr un éxito, como alternativa a la concepción tradicional que enfatizaba los aspectos clasificatorios y comparativos. Así mismo se considera el papel de algunas variables de personalidad que pueden afectar negativamente al aprendizaje y rendimiento académico.
-Es esencial conocer la lógica de los dos modelos de medida vigentes en el mundo académico:
-Modelo Basado en Normas: ha impregnado (y sigue haciéndolo actualmente) toda la dinámica de evaluación tanto psicológica como escolar en el mundo académico, en donde lo que predomina es la competitividad y la comparación entre los estudiantes. 
-Modelo Basado en Criterio: se está incorporando progresivamente, y enfatiza el análisis intra-individual (comparación consigo mismo o evolución a lo largo del tiempo y a través de diferentes materias), la evaluación de la capacidad de aprendizaje y los modos de adaptación a la vida cotidiana.
-Bajo una perspectiva integradora de la personalidad y la inteligencia, es importante abordar aquellos aspectos dinámicos de carácter cognitivo y afectivo relevantes para la explicación del aprendizaje y el rendimiento académicos. Partiendo de la consideración de los estudiantes y de su manera de aprender como algo activo, y de la tendencia cada vez mayor a ajustar la enseñanza a las preferencias, estilos y personalidad del mismo, es de gran importancia conocer una serie de dimensiones relacionadas con el aprendizaje, en las que los estudiantes difieren, y comprender cómo ese aprendizaje puede verse afectado por las mismas. Se trata de los intereses, los estilos cognitivos, los estilos y orientaciones al aprendizaje, los estilos de pensamiento y los rasgos de personalidad.
-
-Laboral
-Desde sus inicios esta disciplina ha encontrado en el mundo del trabajo una coyuntura para alcanzar un magnífico despliegue. Sin embargo, la forma de utilizar los conocimientos de la Psicología Diferencial en dicho ámbito ha ido cambiando a lo largo del s. XX. 
-Es importante conocer la evolución desde las primeras aplicaciones de la Psicología de las Diferencias Individuales al contexto laboral, llevadas a cabo bajo una perspectiva denominada "Teoría clásica de la organización”, cuyo objetivo estaba limitado a mejorar la productividad de las empresas mediante la mecanización de las tareas y la selección de personas más capacitadas en términos de CI, hasta una nueva concepción de la eficacia empresarial, en la que el bienestar físico y organizacional son importantes.
-Es decir, se ha pasado de una concepción en la que se pretendía obtener un mejor funcionamiento empresarial atendiendo a aspectos meramente estructurales como la mecanización de tareas, o recurriendo a la ubicación de los trabajadores en distintos niveles jerárquicos en función de su inteligencia, a un enfoque en el que el bienestar físico y psicológico de los individuos es considerado importante de cara a los resultados organizacionales. 
-El mayor campo de acción de la psicología diferencial sigue ocupando la selección de personal. Existen pautas de actuación adecuadas para lograr un incremento en el ajuste entre trabajador y la labor que desempeña. Cabe destacar el papel predictivo de las distintas competencias, así como de las variables de personalidad, a la hora de conseguir el éxito en determinados puestos de trabajo. Se reconoce también la importancia que las expectativas del trabajador tiene respecto y se proponen algunas actuaciones que contribuyen a alcanzar un mejor ajuste entre la persona y su labor desempeñada durante toda su trayectoria profesional.
-
-
-
-
-
-
-Salud
-En lo que se refiere al campo de la salud mental, la  psicología diferencial contribuye con su metodología a la resolución de algunas de las cuestiones críticas actuales referidas al diagnóstico psicopatológico; así, los diagnósticos de tipo dimensional, longitudinal e idiográfico permiten diagnósticos más precisos y planificar mejores estrategias de intervención.
-La nueva concepción holística de la salud, basada en el modelo biopsicosocial, ha potenciado la creación y expansión del área de la psicología de la Salud, en la que el estudio de las diferencias individuales, y más en concreto de variables de personalidad, como factores potencialmente predictivos, tanto de las salud como de la enfermedad, ha mostrado ser muy productivo, especialmente en lo que al área de estrés se refiere. 
-Los desarrollos alcanzados por la investigación en dos grupos de enfermedades actuales relevantes (cardiovasculares e inmunológicas), muestran claramente que nuestra forma de afrontar los acontecimientos de la vida impacta de forma significativa en nuestra salud, especialmente aquellas variables relativas al manejo de las emociones negativas. Un adecuado conocimiento de las mismas tiene evidentes aplicaciones prácticas sobre el sistema sanitario. 
-Determinadas variables y patrones de personalidad parecen tener un cierto valor predictivo en alguna de las fases del desarrollo de este tipo de enfermedades.
+* **Educación**
+  * **Binet y Wechsler**. Sus trabajos, pioneros en psicología diferencial repercutieron  en el desarrollo de test de inteligencia aplicados al ámbito escolar.
+  * Cambio en la concepción de la **inteligencia** y aptitudes cognitivas, **pasan de considerarse como algo estrictamente innato y estático, a reconocerse su carácter ambiental** y, por tanto, su susceptibilidad a ser **modificados o estimulados por la instrucción** (importancia del aprendizaje y experiencia).
+  * Valoración crítica de la trayectoria aplicada de la Psicología diferencial, poniendo de manifiesto algunas repercusiones negativas en el campo educativo, por lo que se plantean nuevas tendencias teóricas y prácticas destinadas a mejorar la intervención de esta disciplina en este ámbito. 
+  * Se enfatiza la importancia de variables estilísticas que ponen el acento en cómo el alumno aprende, en los distintos modos de lograr un éxito, como alternativa a la concepción tradicional que enfatizaba los aspectos clasificatorios y comparativos. Así mismo se considera el papel de algunas variables de personalidad que pueden afectar negativamente al aprendizaje y rendimiento académico.
+  * Es esencial conocer la **lógica** de los **dos modelos de medida vigentes** en el mundo académico:
+    * Modelo **Basado en Normas**: ha impregnado (y sigue haciéndolo actualmente) toda la dinámica de evaluación tanto psicológica como escolar en el mundo académico, en donde lo que predomina es la competitividad y la comparación entre los estudiantes. 
+    * Modelo **Basado en Criterio**: se está incorporando progresivamente, y enfatiza el análisis intra-individual (comparación consigo mismo o evolución a lo largo del tiempo y a través de diferentes materias), la evaluación de la capacidad de aprendizaje y los modos de adaptación a la vida cotidiana.
+  * Bajo una perspectiva integradora de la personalidad y la inteligencia, es importante abordar aquellos aspectos dinámicos de carácter cognitivo y afectivo relevantes para la explicación del aprendizaje y el rendimiento académicos. Partiendo de la consideración de los estudiantes y de su manera de aprender como algo activo, y de la tendencia cada vez mayor a ajustar la enseñanza a las preferencias, estilos y personalidad del mismo, es de gran importancia conocer una serie de dimensiones relacionadas con el aprendizaje, en las que los estudiantes difieren, y comprender cómo ese aprendizaje puede verse afectado por las mismas. Se trata de los intereses, los estilos cognitivos, los estilos y orientaciones al aprendizaje, los estilos de pensamiento y los rasgos de personalidad.
+* **Laboral**
+  * Desde sus inicios esta disciplina ha encontrado en el mundo del trabajo una coyuntura para alcanzar un magnífico despliegue. Sin embargo, la forma de utilizar los conocimientos de la Psicología Diferencial en dicho ámbito ha ido cambiando a lo largo del s. XX. 
+  * Es importante conocer la evolución desde las primeras aplicaciones de la Psicología de las Diferencias Individuales al contexto laboral, llevadas a cabo bajo una perspectiva denominada "Teoría clásica de la organización”, cuyo objetivo estaba limitado a mejorar la productividad de las empresas mediante la mecanización de las tareas y la selección de personas más capacitadas en términos de CI, hasta una nueva concepción de la eficacia empresarial, en la que el bienestar físico y organizacional son importantes.
+  * Es decir, se ha pasado de una concepción en la que se pretendía obtener un mejor funcionamiento empresarial atendiendo a aspectos meramente estructurales como la mecanización de tareas, o recurriendo a la ubicación de los trabajadores en distintos niveles jerárquicos en función de su inteligencia, a un enfoque en el que el bienestar físico y psicológico de los individuos es considerado importante de cara a los resultados organizacionales. 
+  * El mayor campo de acción de la psicología diferencial sigue ocupando la selección de personal. Existen pautas de actuación adecuadas para lograr un incremento en el ajuste entre trabajador y la labor que desempeña. Cabe destacar el papel predictivo de las distintas competencias, así como de las variables de personalidad, a la hora de conseguir el éxito en determinados puestos de trabajo. Se reconoce también la importancia que las expectativas del trabajador tiene respecto y se proponen algunas actuaciones que contribuyen a alcanzar un mejor ajuste entre la persona y su labor desempeñada durante toda su trayectoria profesional.
+* **Salud**
+  * En lo que se refiere al campo de la salud mental, la  psicología diferencial contribuye con su metodología a la resolución de algunas de las cuestiones críticas actuales referidas al diagnóstico psicopatológico; así, los **diagnósticos de tipo dimensional, longitudinal e idiográfico** permiten **diagnósticos más precisos** y planificar mejores estrategias de intervención.
+  * La nueva **concepción holística** de la salud, basada en el **modelo biopsicosocial**, ha potenciado la creación y expansión del área de la psicología de la Salud, en la que el estudio de las diferencias individuales, y más en concreto de variables de personalidad, como factores potencialmente predictivos, tanto de las salud como de la enfermedad, ha mostrado ser muy productivo, especialmente en lo que al área de estrés se refiere. 
+  * Los desarrollos alcanzados por la investigación en dos grupos de enfermedades actuales relevantes (cardiovasculares e inmunológicas), muestran claramente que nuestra forma de afrontar los acontecimientos de la vida impacta de forma significativa en nuestra salud, especialmente aquellas variables relativas al manejo de las emociones negativas. Un adecuado conocimiento de las mismas tiene evidentes aplicaciones prácticas sobre el sistema sanitario. 
+  * Determinadas variables y patrones de personalidad parecen tener un cierto valor predictivo en alguna de las fases del desarrollo de este tipo de enfermedades.
 
 
 </body>
