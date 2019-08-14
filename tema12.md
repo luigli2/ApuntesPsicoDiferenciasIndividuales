@@ -8,7 +8,6 @@
 
 <body>
 
-
 # Tema 12. Principales áreas actuales de aplicación de la investigación en diferencias individuales
 
 ## Introducción 
